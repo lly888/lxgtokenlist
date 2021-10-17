@@ -1,0 +1,25 @@
+{
+    "name": "lxgtokenlist",
+    "logoURI": "http://www.w3.org/2000/svg",
+    "keywords": [
+        "defi",
+        "DEFI",
+        "yield"
+      ],
+      "timestamp": "2020-09-01T01:40:34.305Z",
+      "tokens": [
+        {
+        "chainId": 66,
+        "address": "0xa97f50b2c6ec7836678142f66a2e3db3c4a79689",
+        "name": "BWM",
+        "symbol": "BWM",
+        "decimals": 18,
+        "logoURI": "http://www.w3.org/2000/svg"
+        }
+      ],
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+      }
+  }
